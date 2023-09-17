@@ -1,2 +1,2 @@
 Hey, this is my local repo.
-This is a new feature. Lets learn about merge conflict by working on the same line using 2 branches.
+This is a new feature. Lets learn about merge conflict by working on the same line using 2 branches(main)
